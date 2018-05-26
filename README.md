@@ -1,0 +1,1 @@
+This is the Assignments and Exercises of course *Information retrieval in high dimensional data*. The specific task and description can be found in their folders. 
